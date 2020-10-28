@@ -2,5 +2,5 @@
 # returns the phrase
 ddef parrot(string="Squawk!")
   puts "#{string}"
-  "#{string}"
+
 end
